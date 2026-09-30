@@ -65,7 +65,7 @@ function App() {
 
             <h1>
               Anis Nayak
-              <span>Kundu</span>
+              
             </h1>
 
             <h2>
