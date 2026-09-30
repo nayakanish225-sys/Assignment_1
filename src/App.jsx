@@ -22,7 +22,7 @@ function App() {
 
           <a href="#home" className="logo" onClick={closeMenu}>
             <span className="logo-bracket">&lt;</span>
-            <span>Deep</span>
+            <span>ANIS</span>
             <span className="logo-dot">.</span>
             <span>Dev</span>
             <span className="logo-bracket">/&gt;</span>
@@ -64,7 +64,7 @@ function App() {
             <p className="hello">HELLO, I'M</p>
 
             <h1>
-              Deep Chand
+              Anis Nayak
               <span>Kundu</span>
             </h1>
 
